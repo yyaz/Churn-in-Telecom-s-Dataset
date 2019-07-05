@@ -1,2 +1,2 @@
 # Churn-in-Telecom-s-Dataset
-Comparison of Different Classifiers
+The dataset is the "Churn in Telecom's Dataset" found at https://www.kaggle.com/becksddf/churn-in-telecoms-dataset. The churn is commonly known as the discontinuing of the telecom service subscriptions. For a telecommunication service provider, being able to realize the factors behind churn is very important in order not lose more subscribers. In this project, we will try to find which features most affect churn. This is a valuable insights for telecom operators in order to decrease their churn rates.
